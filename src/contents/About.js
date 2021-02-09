@@ -22,9 +22,8 @@ const About = props => {
                 <p>
                   The projects you can find in my portfolio are works or
                   personal projects. In any case, I put a lot of effort into it,
-                  to get the best result possible. I'm passionate about UI and
-                  UX but I'm interested in everything related to design and
-                  image.
+                  to get the best result possible. I'm passionate about Interaction Design and I'm interested in everything related to design and
+                  coding.
                 </p>
                 <p>
                   You want to work with me, have a question or just like my
