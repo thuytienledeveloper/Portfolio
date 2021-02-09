@@ -47,7 +47,7 @@ class Contact extends Component {
             />
           </LoadScript>
 
-          <Social />
+          <Social className="mt-4" />
         </div>
       </div>
     );
