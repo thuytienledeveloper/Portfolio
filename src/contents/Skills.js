@@ -5,7 +5,7 @@ class Skills extends Component {
     super(props);
     this.state = {
       myskills: [
-        "[ 'HTML/CSS/JS', 'jQuery', 'Bootstrap/Material Design', 'Webpack/Gulp/Grunt', 'SASS/Less', 'npm/yarn/bower',' GIT/CVS','RWD/W3C/ARIA/WCAG', 'PHP', 'Wordpress', 'Photoshop', 'Illustrator', 'After Effects', 'Motion design', 'UX/UI', 'Sketch' ]"
+        "[ 'HTML/CSS/JS', 'jQuery', 'Bootstrap/Material Design', 'Webpack/Gulp/Grunt', 'SASS/Less', 'npm/yarn/bower',' GIT/CVS','RWD/W3C/ARIA/WCAG', 'PHP', 'WordPress', 'Shopify/Liquid', 'ReactJs', 'Front End Developer','Photoshop', 'Illustrator', 'After Effects', 'Motion design', 'UX/UI', 'Sketch' ]"
       ]
     };
   }
