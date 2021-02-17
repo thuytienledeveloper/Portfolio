@@ -20,7 +20,15 @@ const About = props => {
                   currently living in Irvine, CA
                 </p>
                 <p>
-                  The projects you can find in my portfolio are works or
+                  The projects you can find in{" "}
+                  <a
+                    href="https://thuytienle.com/"
+                    target="_blank"
+                    className="gradient-text"
+                  >
+                    my portfolio
+                  </a>{" "}
+                  are works or
                   personal projects. In any case, I put a lot of effort into it,
                   to get the best result possible. I'm passionate about Interaction Design and I'm interested in everything related to design and
                   coding.
